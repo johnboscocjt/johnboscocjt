@@ -2,7 +2,7 @@
 
 > **Renew.Rewire.Practice.Connect.Become**
 
-📍 **Tanzania 🇹🇿** | 🚀 **Mobile & API Architect** | 🎨 **Creative Technologist**  
+📍 **Tanzania 🇹🇿** | 🚀 **Mobile, Web & API Architect** | 🎨 **Creative Technologist**  
 🐧 **Ubuntu Host** | 🥷 **Kali Virtual** | 🪟 **Windows Legacy**  
 ✝️ **Believer in Jesus Christ**
 
