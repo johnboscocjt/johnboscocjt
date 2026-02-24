@@ -82,12 +82,6 @@ My goal? To elevate **Tanzania's tech status** in East Africa and the world, one
 
 ---
 
-## 📈 GitHub Activity
-![JohnboscoCJT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnboscoCJT&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnboscoCJT&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 📬 Connect With The Node
 *Let's build something great together.*
 
