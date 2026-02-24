@@ -2,7 +2,7 @@
 
 > **Renew.Rewire.Practice.Connect.Become**
 
-📍 **Tanzania 🇹🇿** | 🚀 **Mobile, Web & API Architect** | 🎨 **Creative Technologist**  
+📍 **Tanzania 🇹🇿** | 🚀 **Mobile, Web & API Architect** | 🌱 **Agri-Tech Enthusiast**  
 🐧 **Ubuntu Host** | 🥷 **Kali Virtual** | 🪟 **Windows Legacy**  
 ✝️ **Believer in Jesus Christ**
 
@@ -50,9 +50,9 @@ My journey started on Windows, but necessity forced me into the arms of **Linux*
 I am transitioning from a **Jack of All Trades** to a **Master with a Plan**. 
 *   **Past:** Web Development (Laravel/PHP).
 *   **Present:** Mobile Development (React Native) + API Design.
-*   **Future:** AI, Machine Learning & Cyber Security.
+*   **Future:** AI, Machine Learning, Cyber Security & **Agri-Tech Solutions**.
 
-My goal? To elevate **Tanzania's tech status** in East Africa and the world, one commit at a time.
+My goal? To elevate **Tanzania's tech status** in East Africa and the world, one commit at a time, while nurturing life through agriculture.
 
 ---
 
@@ -64,13 +64,14 @@ My goal? To elevate **Tanzania's tech status** in East Africa and the world, one
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 **Core Focus:** `Full Stack Web` `Mobile Development` `Data Structures & Algorithms` `Ethical Hacking & Tool Creation` `AI & Machine Learning`  
 **More Experienced In:** `Java` `C++`  
-**Also Experienced In:** `C` `C#` `.NET` `Dart/Flutter` `Git` `Python and Django`
+**Also Experienced In:** `C` `C#` `.NET` `Dart/Flutter` `Git` `Python & Django`
 
 ---
 
@@ -122,9 +123,11 @@ I enable my machine to operate **3 OSs simultaneously**. This allows me to devel
 
 ---
 
-## 🎨 Creative Core
-*Code is art, but so is everything else.*
+## 🎨 Creative Core & Life Passions
+*Code is art, but so is life, nature, and growth.*
 
+*   **🌱 Farming & Agriculture:** I have a deep love for tilling the soil and watching crops grow. I see parallels between nurturing a farm and nurturing a codebase—both require patience, planning, and care.
+*   **🐄 Animal Keeping:** Raising and caring for animals is a joy. It teaches responsibility and connects me to the rhythms of life.
 *   **🎵 Music Writing:** Composing beats and lyrics when the compiler needs a break.
 *   **🎬 Videography & VFX:** Creating content and mobile VFX. I tell stories visually.
 *   **📸 Photography:** Capturing the world through a lens.
@@ -155,7 +158,8 @@ graph LR
     B -->|Current Focus| C{React Native + Laravel}
     C -->|Next Phase| D[AI & Machine Learning]
     C -->|Next Phase| E[Cyber Security]
-    D & E --> F[Master of All Trades]
+    C -->|Passion Project| F[Agri-Tech Solutions]
+    D & E & F --> G[Master of All Trades]
 ```
 
 ---
@@ -177,7 +181,8 @@ graph LR
 - 🇹🇿 **Location:** Tanzania, East Africa.
 - 🖊️ **Design Tool:** Pen & Paper > Digital Tools.
 - 🐧 **OS:** Ubuntu is home, Kali is the playground.
-- 🎵 **Side Quest:** Music Producer & VFX Artist.
+- 🌾 **Side Quest:** Farmer & Animal Keeper at heart.
+- 🎵 **Hobby:** Music Producer & VFX Artist.
 - 🎯 **Philosophy:** "Instead of being jack of all trades with no plans, I am becoming one with a plan and master all at the end."
 - 🤝 **Collaboration:** Open to stealing... I mean, *learning* workflows from you.
 - ✝️ **Faith:** Guided by Grace.
