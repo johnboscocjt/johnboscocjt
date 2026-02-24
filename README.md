@@ -7,8 +7,6 @@
 ✝️ **Believer in Jesus Christ**
 
 ---
-"Out here doing some Alien things, Jesus is King..." ~johnboscocjt (Isaiah 28:21)
----
 
 ## 👋 About Me
 I am a **Computer Science enthusiast** who believes in understanding the *kernel* of things, not just the surface. I don't just build apps; I build understanding. 
@@ -140,6 +138,8 @@ graph LR
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HERE)
 
+---
+"Out here doing some Alien things, Jesus is King..." ~johnboscocjt (Isaiah 28:21)
 ---
 
 ### 🧠 Random System Logs
