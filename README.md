@@ -7,7 +7,7 @@
 ✝️ **Believer in Jesus Christ**
 
 ---
-# "Out here doing some Alien things, Jesus is King..." ~johnboscocjt (Isaiah 28:21)
+"Out here doing some Alien things, Jesus is King..." ~johnboscocjt (Isaiah 28:21)
 ---
 
 ## 👋 About Me
