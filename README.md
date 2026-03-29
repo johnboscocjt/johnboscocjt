@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=00FFAA&center=true&vCenter=true&width=680&lines=Renew.+Rewire.;Practice.+Connect.;Become." alt="Typing SVG: Renew. Rewire. → Practice. Connect. → Become." />
   
-  <h1>🧠 JohnboscoCJT | Founder @ BraintelTech</h1>
+  <h1>🧠 JohnboscoCJT | Founder @ Braintel Technologies</h1>
   
   <p>
     <strong>Mobile · Web · API Architect</strong>  |  <strong>Hacker</strong>  |  <strong>Agri-Tech Enthusiast</strong><br>
