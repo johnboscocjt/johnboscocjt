@@ -4,7 +4,7 @@
   <h1>🧠 JohnboscoCJT | Founder @ Braintel Technologies</h1>
   
   <p>
-    <strong>Mobile · Web · API Architect</strong>  |  <strong>Hacker</strong>  |  <strong>Farmer</strong><br>
+    <strong>Mobile · Web · API Architect</strong>  |  <strong>Hacker</strong>  |  <strong>Farmerboy</strong><br> |  <strong>Churchboy</strong><br>
     📍 Tanzania 🇹🇿   🚀 Building the future one commit at a time
   </p>
 
