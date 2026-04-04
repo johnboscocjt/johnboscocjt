@@ -9,10 +9,6 @@
   </p>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=JohnboscoCJT&show_icons=true&theme=tokyonight&title_color=00FFAA&text_color=ffffff&icon_color=00FFAA&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </p>
-  
-  <p>
     <strong>Mobile · Web · API Architect</strong>  |  <strong>Hacker</strong>  |  <strong>Farmerboy</strong>  |  <strong>Churchboy</strong><br>
     📍 Tanzania 🇹🇿   🚀 Building the future one commit at a time
   </p>
