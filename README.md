@@ -9,7 +9,7 @@
   </p>
 
   <p>
-    <strong>Mobile · Web · API Architect</strong>  |  <strong>Hacker</strong>  |  <strong>Farmerboy</strong>  |  <strong>Churchboy</strong><br>
+    <strong>Mobile · Web · API Architect</strong>  |  <strong>Hacker</strong>  |  <strong>AI Master</strong> |  <strong>Farmerboy</strong>  |  <strong>Churchboy</strong><br>
     📍 Tanzania 🇹🇿   🚀 Building the future one commit at a time
   </p>
 
