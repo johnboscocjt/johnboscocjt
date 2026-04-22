@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.heroapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=00FFAA&center=true&vCenter=true&width=680&lines=Renew.+Rewire.;Practice.+Connect.;Become." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=00FFAA&center=true&vCenter=true&width=680&lines=Renew.+Rewire.;Practice.+Connect.;Become." alt="Typing SVG" />
   
   <h1>🧠 JohnboscoCJT | Founder @ Braintel Technologies</h1>
   
@@ -39,7 +39,7 @@ After a long time and investment — not just in writing code, but in **truly le
 
 - **Java** — I'm an expert, though I don't use it much anymore
 - **Vanilla JavaScript** — I'm the best. No framework magic, just pure DOM mastery
-- **PHP, Python & C** — Solid, deep understanding
+- **PHP & Python** — Solid, deep understanding
 - **C++** — Comfortable
 - **C#** — A little bit, enough to get things done
 
