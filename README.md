@@ -40,7 +40,7 @@ After a long time and investment — not just in writing code, but in **truly le
 - **Java** — I'm an expert, though I don't use it much anymore
 - **Vanilla JavaScript** — I'm the best. No framework magic, just pure DOM mastery
 - **PHP & Python** — Solid, deep understanding
-- **C++** — Comfortable
+- **C & C++** — Comfortable
 - **C#** — A little bit, enough to get things done
 
 But my heart lives in the tools that let me build fast and beautifully:  
