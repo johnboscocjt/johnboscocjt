@@ -38,7 +38,7 @@ Currently:
 After a long time and investment — not just in writing code, but in **truly learning programming languages** without hopping around. I took time to understand the *whys* and *whats* beneath the syntax. I can truly say:
 
 - **Java** — I'm an expert, though I don't use it much anymore
-- **Vanilla JavaScript** — I'm the best. No framework magic, just pure DOM mastery
+- **Vanilla JavaScript, Typescript** — I'm the best. No framework magic, just pure DOM mastery
 - **PHP & Python** — Solid, deep understanding
 - **C & C++** — Comfortable
 - **C#** — A little bit, enough to get things done
