@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=00FFAA&center=true&vCenter=true&width=680&lines=Renew.+Rewire.;Practice.+Connect.;Become." alt="Typing SVG" />
   
-  <h1>🧠 JohnboscoCJT | Founder @ Braintel Technologies</h1>
+  <h1>🧠 JohnboscoCJT | Building - Braintel Technologies</h1>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=JohnboscoCJT&style=for-the-badge&color=00FFAA" alt="Profile views" />
@@ -40,7 +40,7 @@ After a long time and investment — not just in writing code, but in **truly le
 - **Java** — I'm an expert, though I don't use it much anymore
 - **Vanilla JavaScript & Typescript** — I'm the best. No framework magic, just pure DOM mastery
 - **PHP & Python** — Solid, deep understanding
-- **C, C++ & C#** — Comfortable a little bit, enough to get things done
+- **C, C++ & C#** — Comfortable a little bit enough to get things done
 
 But my heart lives in the tools that let me build fast and beautifully:  
 **Laravel · React · React Native · HTML · CSS · TailwindCSS · Alpine.js**
@@ -69,6 +69,7 @@ I am a **builder and a problem solver.** I am excited to jump into this. I'm als
 
 ### 🛠️ Tech Stack & Tools
 
+#### 🚀 Frameworks & Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Filament-FFA900?style=for-the-badge&logo=laravel&logoColor=white" alt="Filament" />
@@ -80,19 +81,47 @@ I am a **builder and a problem solver.** I am excited to jump into this. I'm als
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+</p>
+
+#### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white" alt="Neon" />
+</p>
+
+**My Database Philosophy:**
+- **MySQL / MariaDB:** My go-to for production web apps — reliable, robust, and well-integrated with Laravel.
+- **SQLite:** Perfect for local development, testing, and lightweight projects.
+- **PostgreSQL:** When I need advanced features, reliability, and ACID compliance.
+- **Supabase:** The modern way! PostgreSQL with real-time subscriptions, auth, storage, and a beautiful dashboard. I use it when I need a backend that scales without managing servers.
+- **Neon:** Serverless Postgres with branching — ideal for development workflows and auto-scaling.
+
+> **Fun fact:** I often start projects with SQLite for rapid prototyping, then migrate to MySQL/MariaDB or PostgreSQL (via Supabase/Neon) when ready for production.
+
+#### 🧰 Tools & Platforms
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 **Core Focus**  
 Full-Stack Web • Mobile Development • Ethical Hacking & Tool Creation • Data Structures & Algorithms • AI/ML basics
-
-**Also Experienced In** Java • C++ • C • C#/.NET • Dart/Flutter • Django • Git
 
 **Loves Working With**  
 Laravel · React · React Native · HTML · CSS · Tailwind · Alpine.js
