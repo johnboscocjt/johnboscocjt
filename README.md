@@ -40,12 +40,11 @@ After a long time and investment — not just in writing code, but in **truly le
 - **Java** — I'm an expert, though I don't use it much anymore
 - **Vanilla JavaScript & Typescript** — I'm the best. No framework magic, just pure DOM mastery
 - **PHP & Python** — Solid, deep understanding
-- **C & C++** — Comfortable
-- **C#** — A little bit, enough to get things done
+- **C, C++ & C#** — Comfortable a little bit, enough to get things done
 
 But my heart lives in the tools that let me build fast and beautifully:  
 **Laravel · React · React Native · HTML · CSS · TailwindCSS · Alpine.js**
-
+ 
 I genuinely love **VS Code** more than any IDE — it's home. But I'm curious to explore **Cursor** too.
 
 Now, after all that foundation, I am excited to move and try the new phases of **Agentic coding / AI-driven development life cycle.**
