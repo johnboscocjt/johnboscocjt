@@ -40,10 +40,10 @@ After a long time and investment — not just in writing code, but in **truly le
 - **Java** — I'm an expert, though I don't use it much anymore
 - **Vanilla JavaScript & Typescript** — I'm the best. No framework magic, just pure DOM mastery
 - **PHP & Python** — Solid, deep understanding
-- **C, C++ & C#** — Comfortable a little bit enough to get things done
+- **C, C++ & C#** — Comfortable a little bit, enough to get things done
 
 But my heart lives in the tools that let me build fast and beautifully:  
-**Laravel · React · React Native · HTML · CSS · TailwindCSS · Alpine.js**
+**Laravel · React · React Native · Next.js · Node.js · FastAPI · HTML · CSS · TailwindCSS · Alpine.js**
  
 I genuinely love **VS Code** more than any IDE — it's home. But I'm curious to explore **Cursor** too.
 
@@ -76,11 +76,16 @@ I am a **builder and a problem solver.** I am excited to jump into this. I'm als
   <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=laravel&logoColor=white" alt="Livewire" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -118,13 +123,15 @@ I am a **builder and a problem solver.** I am excited to jump into this. I'm als
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
 </p>
 
 **Core Focus**  
 Full-Stack Web • Mobile Development • Ethical Hacking & Tool Creation • Data Structures & Algorithms • AI/ML basics
 
 **Loves Working With**  
-Laravel · React · React Native · HTML · CSS · Tailwind · Alpine.js
+Laravel · React · React Native · Next.js · Node.js · FastAPI · HTML · CSS · Tailwind · Alpine.js
 
 ---
 
