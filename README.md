@@ -44,7 +44,7 @@ After a long time and investment — not just in writing code, but in **truly le
 - **C#** — A little bit, enough to get things done
 
 But my heart lives in the tools that let me build fast and beautifully:  
-**Laravel · React · React Native · HTML · CSS · Tailwind · Alpine.js · PyQt5 · Kivy · Tkinter · Electron.js**
+**Laravel · React · React Native · HTML · CSS · TailwindCSS · Alpine.js**
 
 I genuinely love **VS Code** more than any IDE — it's home. But I'm curious to explore **Cursor** too.
 
@@ -96,7 +96,7 @@ Full-Stack Web • Mobile Development • Ethical Hacking & Tool Creation • Da
 **Also Experienced In** Java • C++ • C • C#/.NET • Dart/Flutter • Django • Git
 
 **Loves Working With**  
-Laravel · React · React Native · HTML · CSS · Tailwind · Alpine.js · PyQt5 · Kivy · Tkinter · Electron.js
+Laravel · React · React Native · HTML · CSS · Tailwind · Alpine.js
 
 ---
 
