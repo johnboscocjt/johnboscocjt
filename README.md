@@ -4,18 +4,64 @@
   <h1>🧠 JohnboscoCJT | Building - Braintel Technologies</h1>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=JohnboscoCJT&style=for-the-badge&color=00FFAA" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/JohnboscoCJT?style=for-the-badge&color=00FFAA&logo=github" alt="Followers" />
   </p>
 
   <p>
     <strong>Farmerboy with the laptop</strong>  |  <strong>Churchboy</strong><br>
-    📍 Tanzania 🇹🇿   🚀 Building the future one commit at a time
+    📍 Tanzania 🇹🇿   🚀 You happen to make it happen, do more with less. Godspeed.
   </p>
 
   <img src="https://img.shields.io/badge/Jesus%20Christ%20is%20King-000000?style=for-the-badge&logoColor=white" alt="Jesus is King" />
   <img src="https://img.shields.io/badge/Jesus%20the%20God%20of%20gods-000000?style=for-the-badge&logoColor=white" alt="Jesus the God of gods" />
 </div>
+
+---
+
+### 💼 Portfolio & Work
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 20px; background: linear-gradient(135deg, #00FFAA20, #00FFAA05); border-radius: 15px; border: 2px solid #00FFAA40;">
+        <h2 style="margin: 0; animation: pulse 2s infinite;">
+          🚀 See My Work & Projects
+        </h2>
+        <p style="font-size: 1.1em; margin: 10px 0;">
+          <strong>👇 Click below to explore my portfolio 👇</strong>
+        </p>
+        <a href="https://dontt4lkdoittz.vercel.app/" target="_blank" style="display: inline-block; text-decoration: none;">
+          <img src="https://img.shields.io/badge/🌟_Visit_My_Portfolio-00FFAA?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000&color=00FFAA" alt="Portfolio" style="transition: transform 0.3s ease;" />
+        </a>
+        <br><br>
+        <p style="margin: 5px 0; font-size: 0.9em; opacity: 0.8;">
+          <span style="display: inline-block; animation: bounce 2s infinite;">✨</span>
+          <em>Proof of work • Projects • Solutions • Innovations</em>
+          <span style="display: inline-block; animation: bounce 2s infinite 0.5s;">✨</span>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); color: #00FFAA; }
+    100% { transform: scale(1); }
+  }
+  
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-5px); }
+  }
+  
+  /* Hover effect for the badge */
+  a img:hover {
+    transform: scale(1.1) !important;
+    filter: brightness(1.2);
+  }
+</style>
 
 ---
 
@@ -114,6 +160,30 @@ I am a **builder and a problem solver.** I am excited to jump into this. I'm als
 
 > **Fun fact:** I often start projects with SQLite for rapid prototyping, then migrate to MySQL/MariaDB or PostgreSQL (via Supabase/Neon) when ready for production.
 
+#### ☁️ Deployment & Hosting Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
+
+**My Deployment Philosophy:**
+- **Vercel:** My go-to for Next.js and React apps — seamless deployments, edge functions, and incredible developer experience.
+- **Netlify:** Perfect for static sites, Jamstack apps, and serverless functions with a generous free tier.
+- **Render:** When I need full-stack deployment with databases, background workers, and cron jobs — a Heroku alternative that just works.
+- **Heroku:** The classic — great for rapid prototyping and deploying apps with minimal configuration.
+- **Cloudflare:** For DNS, CDN, DDoS protection, and Cloudflare R2 object storage.
+
+#### 📦 Cloud Storage & Object Storage
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare R2" />
+</p>
+
+**My Storage Philosophy:**
+- **Cloudflare R2:** My go-to for object storage — S3-compatible API with no egress fees. Perfect for hosting images, videos, static assets, and backups. The free tier (10GB storage, 1M class A operations/month) is incredibly generous, and it integrates beautifully with Cloudflare's CDN for lightning-fast global delivery. No surprise bandwidth bills!
+
 #### 🧰 Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -123,8 +193,8 @@ I am a **builder and a problem solver.** I am excited to jump into this. I'm als
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/OpenCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="OpenCode" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
 </p>
 
 **Core Focus**  
