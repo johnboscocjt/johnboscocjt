@@ -23,45 +23,22 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="padding: 20px; background: linear-gradient(135deg, #00FFAA20, #00FFAA05); border-radius: 15px; border: 2px solid #00FFAA40;">
-        <h2 style="margin: 0; animation: pulse 2s infinite;">
-          🚀 See My Work & Projects
-        </h2>
+      <td align="center" style="padding: 20px; background: #0a0a0a; border-radius: 15px; border: 2px solid #00FFAA40;">
+        <h2>🚀 See My Work & Projects</h2>
         <p style="font-size: 1.1em; margin: 10px 0;">
           <strong>👇 Click below to explore my portfolio 👇</strong>
         </p>
-        <a href="https://dontt4lkdoittz.vercel.app/" target="_blank" style="display: inline-block; text-decoration: none;">
-          <img src="https://img.shields.io/badge/🌟_Visit_My_Portfolio-00FFAA?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000&color=00FFAA" alt="Portfolio" style="transition: transform 0.3s ease;" />
+        <a href="https://dontt4lkdoittz.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_My_Portfolio-00FFAA?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000&color=00FFAA" alt="Portfolio" />
         </a>
         <br><br>
         <p style="margin: 5px 0; font-size: 0.9em; opacity: 0.8;">
-          <span style="display: inline-block; animation: bounce 2s infinite;">✨</span>
-          <em>Proof of work • Projects • Solutions • Innovations</em>
-          <span style="display: inline-block; animation: bounce 2s infinite 0.5s;">✨</span>
+          ✨ <em>Proof of work • Projects • Solutions • Innovations</em> ✨
         </p>
       </td>
     </tr>
   </table>
 </div>
-
-<style>
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); color: #00FFAA; }
-    100% { transform: scale(1); }
-  }
-  
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-5px); }
-  }
-  
-  /* Hover effect for the badge */
-  a img:hover {
-    transform: scale(1.1) !important;
-    filter: brightness(1.2);
-  }
-</style>
 
 ---
 
