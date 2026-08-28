@@ -28,7 +28,7 @@
         <p style="font-size: 1.1em; margin: 10px 0;">
           <strong>👇 Click below to explore my portfolio 👇</strong>
         </p>
-        <a href="https://dontt4lkdoittz.vercel.app/" target="_blank">
+        <a href="https://johnboscocjt.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Visit_My_Portfolio-00FFAA?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000&color=00FFAA" alt="Portfolio" />
         </a>
         <br><br>
@@ -116,6 +116,8 @@ I am a **builder and a problem solver.** I am excited to jump into this. I'm als
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </p>
 
 #### 🗄️ Databases
@@ -172,6 +174,8 @@ I am a **builder and a problem solver.** I am excited to jump into this. I'm als
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/OpenCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="OpenCode" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Bruno-1E293B?style=for-the-badge&logo=bruno&logoColor=white" alt="Bruno" />
 </p>
 
 **Core Focus**  
@@ -210,3 +214,4 @@ Big dream: Help position **Tanzania** as a respected tech hub in East Africa.
   <sub>Renew. Rewire. Practice. Connect. Become.</sub><br>
   <b>BraintelTech</b> © 2026
 </div>
+[file content end]
